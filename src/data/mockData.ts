@@ -122,7 +122,7 @@ export const mockMessages: { [conversationId: string]: Message[] } = {
       conversationId: '5',
       content: 'Salut Emma !',
       isMe: true,
-      timestamp: new Date(2024, 4, 30, 14, 05)
+      timestamp: new Date(2024, 4, 30, 14, 5)
     },
     {
       id: 'm11',
